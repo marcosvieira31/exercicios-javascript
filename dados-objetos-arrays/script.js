@@ -18,7 +18,7 @@
       isSubscribed: true
   }
 
-  /* print de mensagem no console.log com as propriedades do objeto anterior */
+  /* print de mensagem no console.log com as propriedades do objeto anterior utilizando a interpolação*/
   console.log(`${student.name} de idade ${student.age} pesa ${student.weight}kg`)
 
   /* declaração de variável do tipo array vazio */
